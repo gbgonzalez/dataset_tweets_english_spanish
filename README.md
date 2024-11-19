@@ -1,4 +1,4 @@
-# CURMIS4th Data Management Plan of the Project “Machine learning-based models to detect and curb Health misinformation on social media
+# CURMIS4th “Machine learning-based models to detect and curb Health misinformation on social media"
 
 ## CURMIS4th: Semantic resources 
 
